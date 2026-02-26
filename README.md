@@ -1,4 +1,6 @@
 # Flipkart-Ecommerce-DataScience-Capstone-Project
 Capstone project showcasing End-to-End E-Commerce Data Science &amp; Machine Learning Project on Flipkart Product Data. Using python,Mysql and excel
+
 Description:
+
 This project presents an end-to-end Data Science and Machine Learning analysis on real-world Flipkart e-commerce product data. The objective of this project is to extract product information through web scraping, clean and preprocess raw data, perform exploratory data analysis (EDA), store structured data in a MySQL database, and apply both unsupervised and supervised machine learning techniques to generate meaningful business insights. The workflow includes web scraping using BeautifulSoup and Requests, data cleaning using Pandas, database integration using SQLAlchemy, clustering using K-Means, and classification using models such as Logistic Regression, SVM, KNN, Random Forest, and XGBoost. This project demonstrates the complete data science lifecycle—from data collection to model evaluation—providing insights into product pricing trends, customer ratings, and category prediction. It reflects strong hands-on experience in Python, SQL, data visualization, and machine learning applied to a real-world e-commerce scenario.
